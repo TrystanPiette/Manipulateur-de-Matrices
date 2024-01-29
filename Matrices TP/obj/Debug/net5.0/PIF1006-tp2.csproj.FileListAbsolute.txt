@@ -1,0 +1,34 @@
+C:\Users\tryst\OneDrive\Bureau\PIF1006\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tryst\OneDrive\Bureau\PIF1006\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.AssemblyInfoInputs.cache
+C:\Users\tryst\OneDrive\Bureau\PIF1006\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.AssemblyInfo.cs
+C:\Users\tryst\OneDrive\Bureau\PIF1006\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.csproj.CoreCompileInputs.cache
+c:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP2\PIF1006-tp2\bin\Debug\net5.0\PIF1006-tp2.exe
+c:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP2\PIF1006-tp2\bin\Debug\net5.0\PIF1006-tp2.deps.json
+c:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP2\PIF1006-tp2\bin\Debug\net5.0\PIF1006-tp2.runtimeconfig.json
+c:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP2\PIF1006-tp2\bin\Debug\net5.0\PIF1006-tp2.runtimeconfig.dev.json
+c:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP2\PIF1006-tp2\bin\Debug\net5.0\PIF1006-tp2.dll
+c:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP2\PIF1006-tp2\bin\Debug\net5.0\PIF1006-tp2.pdb
+c:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP2\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP2\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.AssemblyInfoInputs.cache
+c:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP2\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.AssemblyInfo.cs
+c:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP2\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.csproj.CoreCompileInputs.cache
+c:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP2\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.dll
+c:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP2\PIF1006-tp2\obj\Debug\net5.0\refint\PIF1006-tp2.dll
+c:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP2\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.pdb
+c:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP2\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.genruntimeconfig.cache
+c:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP2\PIF1006-tp2\obj\Debug\net5.0\ref\PIF1006-tp2.dll
+C:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP3\PIF1006-tp2\bin\Debug\net5.0\PIF1006-tp2.exe
+C:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP3\PIF1006-tp2\bin\Debug\net5.0\PIF1006-tp2.deps.json
+C:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP3\PIF1006-tp2\bin\Debug\net5.0\PIF1006-tp2.runtimeconfig.json
+C:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP3\PIF1006-tp2\bin\Debug\net5.0\PIF1006-tp2.runtimeconfig.dev.json
+C:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP3\PIF1006-tp2\bin\Debug\net5.0\PIF1006-tp2.dll
+C:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP3\PIF1006-tp2\bin\Debug\net5.0\PIF1006-tp2.pdb
+C:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP3\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP3\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.AssemblyInfoInputs.cache
+C:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP3\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.AssemblyInfo.cs
+C:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP3\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.csproj.CoreCompileInputs.cache
+C:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP3\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.dll
+C:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP3\PIF1006-tp2\obj\Debug\net5.0\refint\PIF1006-tp2.dll
+C:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP3\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.pdb
+C:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP3\PIF1006-tp2\obj\Debug\net5.0\PIF1006-tp2.genruntimeconfig.cache
+C:\Users\tryst\OneDrive\Bureau\UQTR NDC - BAC INFO\PIF1006 - Maths Info 2\Travaux\PIF1006_TP3\PIF1006-tp2\obj\Debug\net5.0\ref\PIF1006-tp2.dll
